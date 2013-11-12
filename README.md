@@ -1,6 +1,6 @@
 # 创新实验室项目
 
-这是项目 [innosoftware](https://innosoftware.github.io) ，
+这是项目 [tomorrowdo](https://tomorrowdo.github.io) ，
 欢迎访问。
 
 这个项目的版本库是 **Git格式** ，在 Windows、Linux、Mac OS X
@@ -20,12 +20,12 @@ GitHub 为每一个用户分配了一个二级域名<user-id>.github.io，
 
 支持三种访问协议：
 
-* HTTP协议: `https://github.com/innosoftware/innosoftware.github.io` 。
-* Git协议: `git://github.com/innosoftware/innosoftware.github.io` 。
-* SSH协议: `ssh://git@github.com/innosoftware/innosoftware.github.io` 。
+* HTTP协议: `https://github.com/tomorrowdo/tomorrowdo.github.io` 。
+* Git协议: `git://github.com/tomorrowdo/tomorrowdo.github.io` 。
+* SSH协议: `ssh://git@github.com/tomorrowdo/tomorrowdo.github.io` 。
 
 ## 克隆版本库
 
 操作示例：
 
-    $ git clone git://github.com/innosoftware/innosoftware.github.io
+    $ git clone git://github.com/tomorrowdo/tomorrowdo.github.io
